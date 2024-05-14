@@ -21,7 +21,7 @@ It focuses on replicating the visual appearance of Pinterest, offering a similar
 + **Google Fonts**: For customized fonts.
 
 ### ➡️ Vista Previa del Proyecto
-----Pendiente----
+![Demo](assets/icons/pinterest_screen.png)
 
 ### ➡️ Contact
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [Linkedin](https://github.com/). 
